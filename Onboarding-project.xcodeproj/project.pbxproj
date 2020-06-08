@@ -15,6 +15,9 @@
 		095589CF24857E7400141DE6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 095589CD24857E7400141DE6 /* LaunchScreen.storyboard */; };
 		095589DA24857E7400141DE6 /* Onboarding_projectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095589D924857E7400141DE6 /* Onboarding_projectTests.swift */; };
 		095589E524857E7500141DE6 /* Onboarding_projectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095589E424857E7500141DE6 /* Onboarding_projectUITests.swift */; };
+		095589F324857F9C00141DE6 /* OnboardingOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095589F224857F9C00141DE6 /* OnboardingOne.swift */; };
+		095589F52485807800141DE6 /* OnboardingTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095589F42485807800141DE6 /* OnboardingTwo.swift */; };
+		095589F72485810B00141DE6 /* OnboardingThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 095589F62485810B00141DE6 /* OnboardingThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		095589E024857E7400141DE6 /* Onboarding-projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Onboarding-projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		095589E424857E7500141DE6 /* Onboarding_projectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding_projectUITests.swift; sourceTree = "<group>"; };
 		095589E624857E7500141DE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		095589F224857F9C00141DE6 /* OnboardingOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingOne.swift; sourceTree = "<group>"; };
+		095589F42485807800141DE6 /* OnboardingTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingTwo.swift; sourceTree = "<group>"; };
+		095589F62485810B00141DE6 /* OnboardingThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +112,9 @@
 				095589CD24857E7400141DE6 /* LaunchScreen.storyboard */,
 				095589D024857E7400141DE6 /* Info.plist */,
 				095589CA24857E7400141DE6 /* Preview Content */,
+				095589F224857F9C00141DE6 /* OnboardingOne.swift */,
+				095589F62485810B00141DE6 /* OnboardingThree.swift */,
+				095589F42485807800141DE6 /* OnboardingTwo.swift */,
 			);
 			path = "Onboarding-project";
 			sourceTree = "<group>";
@@ -270,6 +279,9 @@
 				095589C324857E7200141DE6 /* AppDelegate.swift in Sources */,
 				095589C524857E7200141DE6 /* SceneDelegate.swift in Sources */,
 				095589C724857E7200141DE6 /* ContentView.swift in Sources */,
+				095589F324857F9C00141DE6 /* OnboardingOne.swift in Sources */,
+				095589F52485807800141DE6 /* OnboardingTwo.swift in Sources */,
+				095589F72485810B00141DE6 /* OnboardingThree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
